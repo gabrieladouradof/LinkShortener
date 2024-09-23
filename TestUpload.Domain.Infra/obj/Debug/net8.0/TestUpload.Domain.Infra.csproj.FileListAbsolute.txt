@@ -1,0 +1,15 @@
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.csproj.AssemblyReference.cache
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.AssemblyInfoInputs.cache
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.AssemblyInfo.cs
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.Infra.deps.json
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.Infra.dll
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.Infra.pdb
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.dll
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.pdb
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUplo.4FCCDF59.Up2Date
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.dll
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\refint\TestUpload.Domain.Infra.dll
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.pdb
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\ref\TestUpload.Domain.Infra.dll

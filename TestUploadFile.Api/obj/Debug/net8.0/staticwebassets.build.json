@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yuzjJTuGxjpnMdrfy+N8WavyCpJSWdlntKmSECiV01k=",
+  "Source": "TestUploadFile.Api",
+  "BasePath": "_content/TestUploadFile.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.csproj.AssemblyReference.cache
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.AssemblyInfoInputs.cache
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.AssemblyInfo.cs
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.csproj.CoreCompileInputs.cache
+C:\dev\TestUploadFile\TestUpload.Domain\bin\Debug\net8.0\TestUpload.Domain.deps.json
+C:\dev\TestUploadFile\TestUpload.Domain\bin\Debug\net8.0\TestUpload.Domain.dll
+C:\dev\TestUploadFile\TestUpload.Domain\bin\Debug\net8.0\TestUpload.Domain.pdb
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.dll
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\refint\TestUpload.Domain.dll
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.pdb
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\ref\TestUpload.Domain.dll
