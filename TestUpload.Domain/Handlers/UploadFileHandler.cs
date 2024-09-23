@@ -28,17 +28,17 @@ public class UploadFileHandler
         {
             if (formFile.Length > 0)
             {
-                // Gerar código do arquivo
+                // generate code from file
                 var fileCode = Guid.NewGuid().ToString();
                 var filePath = Path.Combine("Uploads", fileCode + Path.GetExtension(formFile.FileName));
 
-                // Salvar arquivo no sistema de arquivos
+                //save file to file system
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     await formFile.CopyToAsync(stream);
                 }
 
-                // Criar entidade de domínio e persistir no banco
+                //Create domain entity and persist in the database
                 var fileEntity = new FileEntity(filePath, fileCode);
                 await _fileRepository.SaveAsync(fileEntity);
             }
