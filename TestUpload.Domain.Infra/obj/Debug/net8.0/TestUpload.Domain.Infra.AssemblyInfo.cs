@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestUpload.Domain.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e13045ffe88cf146910ffb369c2c75d582ca2b84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad8dfd4c15db3f0245ace8a163d37ff067a9f008")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestUpload.Domain.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestUpload.Domain.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

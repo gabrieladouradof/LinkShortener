@@ -29,6 +29,11 @@ namespace Domain.Infra.Repositories
         {
             return await _context.Files.SingleOrDefaultAsync(f => f.FileCode == fileCode);
         }
+
+        public async Task<FileEntity?> GetByFileCodeAsync(string fileCode)
+        {
+            return await _context.Files.FirstOrDefaultAsync(f => f.FileCode == fileCode);
+        }
     }
 
 }

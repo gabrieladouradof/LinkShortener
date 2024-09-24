@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace TestUpload.Domain.Infra.Data
 {
     //This class was required for database configuration
@@ -19,7 +18,6 @@ namespace TestUpload.Domain.Infra.Data
             builder.UseMySql("Server=localhost;;Database=PropertiesFiles;User=root;Password=23112019@arrasca.;", new MySqlServerVersion(new Version(8, 4, 0)));
 
             return new DatabaseContext(builder.Options);
-            
         }
     }
 }

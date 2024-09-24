@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mvTLY/XTdBzO3pTMRRZAxvdbHWg+OeEmrrc3gN69FcFRrC6bXQM4AxNFw2w0ceFiqODJStS1VAoSW1vLGfwQww==",
+  "dgSpecHash": "bAV0MsacsILKWzPbdMCCT47aPHiFNmeTCwyInQRFOXP1XwA9kR0qgV4PIUge67rSwWmfSGBv4ogKE2ApaaMqkQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\TestUpload.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\GabrielaDourado\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\GabrielaDourado\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\GabrielaDourado\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
     "C:\\Users\\GabrielaDourado\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"

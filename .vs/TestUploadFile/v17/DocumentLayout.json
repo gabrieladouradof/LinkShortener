@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\dev\\TestUploadFile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|c:\\dev\\testuploadfile\\testuploadfile.api\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|solutionrelative:testuploadfile.api\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|c:\\dev\\testuploadfile\\testuploadfile.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|solutionrelative:testuploadfile.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\handlers\\uploadfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|solutionrelative:testupload.domain\\handlers\\uploadfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|c:\\dev\\testuploadfile\\testuploadfile.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|solutionrelative:testuploadfile.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|c:\\dev\\testuploadfile\\testuploadfile.api\\controllers\\downloadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|solutionrelative:testuploadfile.api\\controllers\\downloadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|c:\\dev\\testuploadfile\\testuploadfile.api\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA82151-FE4D-47D1-B975-8F70D19D38FA}|TestUploadFile.Api\\TestUploadFile.Api.csproj|solutionrelative:testuploadfile.api\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|solutionrelative:testupload.domain\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\commands\\commandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|solutionrelative:testupload.domain\\commands\\commandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\data\\idesigntimedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\data\\idesigntimedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|solutionrelative:testupload.domain\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\commands\\uploadfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +37,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|c:\\dev\\testuploadfile\\testupload.domain\\irepositories\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40D1B82D-7011-4A8A-91B8-C7490CEDEB32}|TestUpload.Domain\\TestUpload.Domain.csproj|solutionrelative:testupload.domain\\irepositories\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\data\\idesigntimedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\data\\idesigntimedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\TestUploadFile\\TestUploadFile\\Controllers\\UploadFileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|c:\\dev\\testuploadfile\\testupload.domain.infra\\migrations\\20240916202507_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BB1F91-4A14-4420-9F02-36D8670169C8}|TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj|solutionrelative:testupload.domain.infra\\migrations\\20240916202507_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,13 +110,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\IRepositories\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain\\IRepositories\\IFileRepository.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\IRepositories\\IFileRepository.cs",
+              "RelativeToolTip": "TestUpload.Domain\\IRepositories\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:52:13.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UploadFileController.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Controllers\\UploadFileController.cs",
               "RelativeDocumentMoniker": "TestUploadFile.Api\\Controllers\\UploadFileController.cs",
               "ToolTip": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Controllers\\UploadFileController.cs",
               "RelativeToolTip": "TestUploadFile.Api\\Controllers\\UploadFileController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAIwCIAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:42:49.731Z",
               "EditorCaption": ""
@@ -117,7 +142,7 @@
               "RelativeDocumentMoniker": "TestUpload.Domain\\Handlers\\UploadFileHandler.cs",
               "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Handlers\\UploadFileHandler.cs",
               "RelativeToolTip": "TestUpload.Domain\\Handlers\\UploadFileHandler.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAFAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwFEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T19:48:03.103Z",
               "EditorCaption": ""
@@ -125,19 +150,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Program.cs",
-              "RelativeDocumentMoniker": "TestUploadFile.Api\\Program.cs",
-              "ToolTip": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Program.cs",
-              "RelativeToolTip": "TestUploadFile.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Title": "DownloadFileController.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Controllers\\DownloadFileController.cs",
+              "RelativeDocumentMoniker": "TestUploadFile.Api\\Controllers\\DownloadFileController.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Controllers\\DownloadFileController.cs",
+              "RelativeToolTip": "TestUploadFile.Api\\Controllers\\DownloadFileController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:39:34.954Z",
+              "WhenOpened": "2024-09-24T16:27:42.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Data\\DbContext.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\DbContext.cs",
+              "RelativeToolTip": "TestUpload.Domain.Infra\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:01:45.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "TestUpload.Domain\\Commands\\BaseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:14:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadFileCommand.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\UploadFileCommand.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain\\Commands\\UploadFileCommand.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\UploadFileCommand.cs",
+              "RelativeToolTip": "TestUpload.Domain\\Commands\\UploadFileCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:42:42.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandResult.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\CommandResult.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain\\Commands\\CommandResult.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\CommandResult.cs",
+              "RelativeToolTip": "TestUpload.Domain\\Commands\\CommandResult.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:13:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FileEntity.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Entities\\FileEntity.cs",
               "RelativeDocumentMoniker": "TestUpload.Domain\\Entities\\FileEntity.cs",
@@ -150,70 +227,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
-              "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
-              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
-              "RelativeToolTip": "TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCEAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TestUploadFile.Api\\Program.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\Program.cs",
+              "RelativeToolTip": "TestUploadFile.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:50:55.981Z",
+              "WhenOpened": "2024-09-23T14:39:34.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UploadFileCommand.cs",
-              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\UploadFileCommand.cs",
-              "RelativeDocumentMoniker": "TestUpload.Domain\\Commands\\UploadFileCommand.cs",
-              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\Commands\\UploadFileCommand.cs",
-              "RelativeToolTip": "TestUpload.Domain\\Commands\\UploadFileCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:42:42.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IDesignTimeDbContext.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\IDesignTimeDbContext.cs",
               "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Data\\IDesignTimeDbContext.cs",
               "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\IDesignTimeDbContext.cs",
               "RelativeToolTip": "TestUpload.Domain.Infra\\Data\\IDesignTimeDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T18:04:27.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IFileRepository.cs",
-              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\IRepositories\\IFileRepository.cs",
-              "RelativeDocumentMoniker": "TestUpload.Domain\\IRepositories\\IFileRepository.cs",
-              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\IRepositories\\IFileRepository.cs",
-              "RelativeToolTip": "TestUpload.Domain\\IRepositories\\IFileRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "DocumentIndex": 11,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
+              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "TestUpload.Domain.Infra\\Repositories\\FileRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:52:13.767Z"
+              "WhenOpened": "2024-09-16T19:50:55.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Data\\DbContext.cs",
-              "ToolTip": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Data\\DbContext.cs",
-              "RelativeToolTip": "TestUpload.Domain.Infra\\Data\\DbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:01:45.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "DatabaseContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Migrations\\DatabaseContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Migrations\\DatabaseContextModelSnapshot.cs",
@@ -225,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "TestUploadFile.Api.csproj",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\TestUploadFile.Api.csproj",
               "RelativeDocumentMoniker": "TestUploadFile.Api\\TestUploadFile.Api.csproj",
@@ -237,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "TestUpload.Domain.csproj",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain\\TestUpload.Domain.csproj",
               "RelativeDocumentMoniker": "TestUpload.Domain\\TestUpload.Domain.csproj",
@@ -249,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "UploadFileController.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile\\Controllers\\UploadFileController.cs",
               "RelativeDocumentMoniker": "TestUploadFile\\Controllers\\UploadFileController.cs",
@@ -260,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "20240916202507_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\Migrations\\20240916202507_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "TestUpload.Domain.Infra\\Migrations\\20240916202507_InitialCreate.Designer.cs",
@@ -272,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile\\Program.cs",
               "RelativeDocumentMoniker": "TestUploadFile\\Program.cs",
@@ -284,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\appsettings.json",
               "RelativeDocumentMoniker": "TestUploadFile.Api\\appsettings.json",
@@ -296,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TestUploadFile\\appsettings.Development.json",
@@ -308,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\dev\\TestUploadFile\\TestUploadFile\\appsettings.json",
               "RelativeDocumentMoniker": "TestUploadFile\\appsettings.json",

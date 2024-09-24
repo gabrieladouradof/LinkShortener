@@ -11,5 +11,6 @@ namespace Domain.IRepositories
     {
         Task SaveAsync(FileEntity fileEntity);
         Task<FileEntity> GetByCodeAsync(string fileCode);
+        Task<FileEntity?> GetByFileCodeAsync(string fileCode);
     }
 }
