@@ -1,16 +1,14 @@
 ﻿namespace Domain.Entities
 {
     public class FileEntity
+
     {
+        //was removed the "privateset" the entities for manipulating the entities in the endpoint
         public int Id { get; private set; }
-        public string FilePath { get; private set; } = string.Empty;
-        public string FileCode { get; private set; } = string.Empty;
-        public DateTime CreatedAt { get; private set; }  
+        public string FilePath { get; set; } = string.Empty;
+        public string FileCode { get; set; } = string.Empty;
+        public DateTime CreatedAt { get; set; }  
 
-        
-        protected FileEntity() { }
-
-        
         public FileEntity(string filePath, string fileCode)
         {
             FilePath = filePath ?? throw new ArgumentNullException(nameof(filePath));

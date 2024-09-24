@@ -2,7 +2,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using TestUpload.Domain.Infra.Data;
-using 
+using Microsoft.EntityFrameworkCore.Migrations;
+
 
 #nullable disable
 

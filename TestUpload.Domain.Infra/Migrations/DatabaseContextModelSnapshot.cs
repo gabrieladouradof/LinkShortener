@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TestUpload.Domain.Infra.Data;
-using Domain.Entities;
+
 #nullable disable
 
 namespace TestUpload.Domain.Infra.Migrations

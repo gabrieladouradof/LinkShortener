@@ -7,6 +7,8 @@ using TestUpload.Domain.Infra.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IFileRepository, FileRepository>();
+builder.Services.AddScoped<UploadFileHandler>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -19,9 +21,6 @@ builder.Services.AddDbContext<DatabaseContext>(options =>
     new MySqlServerVersion(new Version(8, 4, 0))));
 #endregion 
 
-builder.Services.AddScoped<IFileRepository, FileRepository>();
-builder.Services.AddScoped<UploadFileHandler>();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,9 +32,6 @@ if (app.Environment.IsDevelopment())
 
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

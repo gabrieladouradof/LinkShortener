@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace TestUpload.Domain.Infra.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migrations
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

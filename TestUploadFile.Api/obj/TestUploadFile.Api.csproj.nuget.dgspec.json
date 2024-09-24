@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\TestUploadFile\\TestUploadFile\\TestUploadFile.Api.csproj": {}
+    "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\TestUploadFile.Api.csproj": {}
   },
   "projects": {
     "C:\\dev\\TestUploadFile\\TestUpload.Domain.Infra\\TestUpload.Domain.Infra.csproj": {
@@ -68,6 +68,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -160,14 +168,14 @@
         }
       }
     },
-    "C:\\dev\\TestUploadFile\\TestUploadFile\\TestUploadFile.Api.csproj": {
+    "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\TestUploadFile.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\TestUploadFile\\TestUploadFile\\TestUploadFile.Api.csproj",
+        "projectUniqueName": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\TestUploadFile.Api.csproj",
         "projectName": "TestUploadFile.Api",
-        "projectPath": "C:\\dev\\TestUploadFile\\TestUploadFile\\TestUploadFile.Api.csproj",
+        "projectPath": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\TestUploadFile.Api.csproj",
         "packagesPath": "C:\\Users\\GabrielaDourado\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\TestUploadFile\\TestUploadFile\\obj\\",
+        "outputPath": "C:\\dev\\TestUploadFile\\TestUploadFile.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GabrielaDourado\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,6 +231,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

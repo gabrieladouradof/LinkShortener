@@ -10,5 +10,6 @@ namespace Domain.IRepositories
     public interface IFileRepository
     {
         Task SaveAsync(FileEntity fileEntity);
+        Task<FileEntity> GetByCodeAsync(string fileCode);
     }
 }

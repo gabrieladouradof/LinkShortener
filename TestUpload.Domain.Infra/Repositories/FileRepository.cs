@@ -6,10 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.IRepositories;
 using TestUpload.Domain.Infra.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace Domain.Infra.Repositories
 {
-
     public class FileRepository : IFileRepository
     {
         private readonly DatabaseContext _context;
@@ -23,6 +23,11 @@ namespace Domain.Infra.Repositories
         {
             _context.Files.Add(fileEntity);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<FileEntity> GetByCodeAsync(string fileCode)
+        {
+            return await _context.Files.SingleOrDefaultAsync(f => f.FileCode == fileCode);
         }
     }
 

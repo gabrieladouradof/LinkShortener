@@ -8,20 +8,12 @@ using System.Threading.Tasks;
 
 namespace TestUpload.Domain.Infra.Data
 {
-
-        public class DatabaseContext : DbContext
+    public class DatabaseContext : DbContext
+    {
+        public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
         {
-            public DbSet<FileEntity> Files { get; set; }
-
-            public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options)
-            {
-            }
-
-            protected override void OnModelCreating(ModelBuilder modelBuilder)
-            {
-                base.OnModelCreating(modelBuilder);
-                
-            }
         }
+        public DbSet<FileEntity> Files { get; set; }
 
+    }
 }

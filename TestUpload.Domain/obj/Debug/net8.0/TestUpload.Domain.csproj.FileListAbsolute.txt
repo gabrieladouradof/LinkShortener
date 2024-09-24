@@ -10,3 +10,4 @@ C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.dll
 C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\refint\TestUpload.Domain.dll
 C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.pdb
 C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\ref\TestUpload.Domain.dll
+C:\dev\TestUploadFile\TestUpload.Domain\obj\Debug\net8.0\TestUpload.Domain.sourcelink.json

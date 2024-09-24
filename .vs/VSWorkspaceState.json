@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestUpload.Domain",
+    "\\TestUpload.Domain.Infra",
+    "\\TestUpload.Domain.Infra\\Migrations",
+    "\\TestUpload.Domain\\Handlers",
+    "\\TestUploadFile.Api",
+    "\\TestUploadFile.Api\\Controllers"
+  ],
+  "SelectedNode": "\\TestUploadFile.sln",
+  "PreviewInSolutionExplorer": false
+}

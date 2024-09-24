@@ -13,3 +13,6 @@ C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain
 C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\refint\TestUpload.Domain.Infra.dll
 C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.pdb
 C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\ref\TestUpload.Domain.Infra.dll
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.sourcelink.json
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\bin\Debug\net8.0\TestUpload.Domain.Infra.runtimeconfig.json
+C:\dev\TestUploadFile\TestUpload.Domain.Infra\obj\Debug\net8.0\TestUpload.Domain.Infra.genruntimeconfig.cache
