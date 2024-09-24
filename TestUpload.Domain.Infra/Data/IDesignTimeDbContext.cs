@@ -7,8 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace TestUpload.Domain.Infra.Data
 {
+    //This class was required for database configuration
     public class DataBaseContextFactory : IDesignTimeDbContextFactory<DatabaseContext>  
     {
         public DatabaseContext CreateDbContext(string[] args)
